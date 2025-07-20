@@ -2,7 +2,7 @@
 
 * このワークでは、VPC Reachability Analyzer を使用して VPC リソースのネットワークの到達性の問題を特定します。
 
-![概要](images/xxx.png)
+![概要](images/vpcra.png)
 
 ---
 ## 準備
